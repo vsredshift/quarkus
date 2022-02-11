@@ -1,0 +1,9 @@
+org\vsredshift\customer\Customer.class
+org\vsredshift\customer\CustomerMapperImpl.class
+org\vsredshift\customer\CustomerResource.class
+org\vsredshift\customer\CustomerEntity.class
+org\vsredshift\customer\CustomerRespository.class
+org\vsredshift\customer\ServiceException.class
+org\vsredshift\customer\LoggerProducer.class
+org\vsredshift\customer\CustomerMapper.class
+org\vsredshift\customer\CustomerService.class
